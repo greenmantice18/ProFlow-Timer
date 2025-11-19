@@ -2,7 +2,7 @@
 
 > **A precision-focused productivity timer that solves the JavaScript "Event Loop" drift issue.**
 
-🔗 **[Live Demo](https://your-username.github.io/your-repo-name/)** *(Replace with your actual link)*
+🔗 **[Live Demo](https://greenmantice18.github.io/ProFlow-Timer/)
 
 ## 💡 Project Overview
 ProFlow is an advanced implementation of the Pomodoro technique. Unlike basic timers that rely on `setInterval` (which drifts when the browser is inactive), this application uses **Delta-Time Calculation** to maintain atomic accuracy.
